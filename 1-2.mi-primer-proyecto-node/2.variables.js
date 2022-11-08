@@ -5,6 +5,7 @@ const Edad = 27;
 let developer = true;
 
 let nacimiento = new Date("5/13/95");
+console.log(Nombre,nacimiento);
 
 let libroFavorito = {
     titulo: "El caballero de la armadura oxidada",
