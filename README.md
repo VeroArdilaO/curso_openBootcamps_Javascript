@@ -1,3 +1,1 @@
-# curso_openBootcamps_Javascript
-
-# Javascript Básico
+# Curso openBootcamp Javascript Básico
